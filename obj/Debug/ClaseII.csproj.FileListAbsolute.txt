@@ -1,0 +1,11 @@
+C:\Users\elvin\source\repos\POO\ClaseII\bin\Debug\ClaseII.exe.config
+C:\Users\elvin\source\repos\POO\ClaseII\bin\Debug\ClaseII.exe
+C:\Users\elvin\source\repos\POO\ClaseII\bin\Debug\ClaseII.pdb
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.csproj.AssemblyReference.cache
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.Form1.resources
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.Properties.Resources.resources
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.csproj.GenerateResource.cache
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.csproj.CoreCompileInputs.cache
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.exe
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.pdb
+C:\Users\elvin\source\repos\POO\ClaseII\obj\Debug\ClaseII.Nomina.resources
